@@ -4,7 +4,7 @@ This qt application will simply  open a browser window as a regular user while t
 
 
 # Why I wrote this application?
-At first I wanna open Firefox in a qt application. and Firefox gives me the following error message
+At first I wanna open Firefox in a qt application running as root. and Firefox gives me the following error message
 
 Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/linlinger/.Xauthority which is owned by linlinger.)
 
